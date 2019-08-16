@@ -13,8 +13,6 @@ Si crees que te identificas con lo mencionado arriba, por favor [baja al final d
 
 Las solicitudes se abrirán el 15 de agosto, y permanecerán abiertas hasta que todas las entradas hayan sido asignadas y el presupuesto exhaurido (pero almenos hasta el 15 de setiembre).
 
-We may start responding to some of the awardees as soon as early September, however we will continue assigning grants on a rolling basis during September/October, until the budget runs out. Everyone who has requested a travel grant will receive an update on the status of their application by at least 4 weeks before the conference.
-
 Empezaremos a contactar a los agraciados a principios de setiembre, aunque continuaremos asignando entradas contínuamente hasta setiembre u octubre, hasta que nuestro presuuesto se acabe. Todos los que hayan pedido una beca de viaje recibirán una respuesta del estado de su solucitud hasta 4 semanas antes de la conferencia.
 
 
@@ -23,8 +21,6 @@ Empezaremos a contactar a los agraciados a principios de setiembre, aunque conti
 RustFest Scholarships may come with travel support, when requested. We understand, that not everyone can afford paying the upfront cost of travel to RustFest, even when we provide reimbursements for these costs, so we also offer the option of booking travel on behalf of the awardee. This as well can be requested while filling out the application form.
 
 Las Becas del RustFest pueden incluir ayudas para el viaje, si se piden. Entendemos que, no todo el mundo se puede permitir pagar de golpe el coste del viaje hacia el RustFest, incluso cuando proporcionamos reembolso para estos costes, así que adicionalmente ofrecemos la opción de reservar el viaje en nombre del agraciado.
-
-For the awardees who prefer to book their own travel, we provide an upper reimbursement limit based on their stated expected travel costs so there are no surprises on either end. For those who prefer the flexibility/privacy of booking their own travel, this is a great option and could even save us money and hassle (that we could reallocate for other tasks and awardees), but by all means, take advantage of the conference's offer for travel booking if you feel you need it.
 
 Para los agraciados que prefieran reservar su propio viaje, podemos ofrecer un reembolso al alza basado en las expectativas del coste del viaje, para que así no haya sorpresas para ninguna de las partes. Ésta es una gran opción para los que prefieran la flexibilidad/privacidad de reservar su propio viaje, y hasta nos puede hacer ahorrar dinero y complicaciones (que podríamos usar para otras tareas y agraciados), pero de todas maneras, aprovecha las ventajas en reserva de viajes que ofrece la conferencia si crees que lo necesitas.
 
@@ -43,21 +39,15 @@ Nuestros límites para los reembolsos de viaje y alojamiento son los siguientes:
 - 800€ para viajes intercontinentales o fuera de Europa (vuelos)
 - 110€ por persona por noche para alojamiento
 
-These are just guidelines, all upper limits for reimbursements will be communicated ahead of time to the awardees, as part of their acceptance letter, and we may only diverge from these set limits under special circumstances. All expenses should be submitted after the conference, and will be reimbursed as soon as possible, historically this meant that all awardees have received their refunds in 1 to 4 weeks after submission.
-
 Éstas son sólo unas guías, los límites máximos para los reembolsos se comunicarán con tiempo a los agraciados, como parte de la carta de aceptación, y sólo variaremos estos límites bajo circunstancias especiales. Todos los costes deberían ser enviados después de la conferencia, y se reembolsarán tan pronto como sea posible, en anteriores ediciones los agraciados obtuvieron sus reembols entre 1 y 4 semanas después del envío.
 
 
 ### Autorizaciones de viaje
 
-All Scholarship awardees who need it will be issued an official travel letter that they may use at border crossing and Visa application. For applicants who are not awarded a Scholarship but decide to come to the conference on their own cost we can also provide this option, please [get in touch](mailto:info@rustfest.eu).
-
 Todos los becados que la necesiten se les proporcionará una autorización oficial que podrán usar para cruzar la frontera y en la petición del visado. También podemos proporcionar esta autorización a los solicitantes no becados que decidan asistir a la conferencia por sus propios medios, por favor [ponte en contacto](mailto:info@rustfest.eu).
 
 
 ### Ayuda a los becados
-
-We try our best to make the conference experience of our Scholarship awardees as seamless and accessible as possible. The Scholarship Team (Rafaela, Pilar & Flaki) can be [reached](mailto:diversity@rustfest.eu) anytime with requests that can help us make awardees' conference experience better. Examples of these include, but not limited to:
 
 Nos esforzamos lo máximo posible para que la experiencia de nuestros becados sea lo mejor posible. El Equipo de Becas (Rafaela, Pilar y Flaki) están [disponibles](mailto:diversity@rustfest.eu) en cualquier momento para resolver las dudas y peticiones de nuestro becados para hacer que la experiencia en la conferencia sea la mejor posible. Peticiones como por ejemplo, y no únicamente:
 
@@ -67,8 +57,6 @@ Nos esforzamos lo máximo posible para que la experiencia de nuestros becados se
 - encontrar tarjetas SIM prepago / medicación / necesidades alimenticias específicas
 
 Por supuesto, todo lo mencionado anteriormente no está limitado a nuestros becados (el equipo de organización de RustFest siempre estará dispuesto a ayudarte pueda), pero queremos darle émfasis a que nuestros becas no (necesariamente) terminan en "ayudar a atender", si no que queremos proporcionar una experiencia cómoda y memorable.
-
-Somewhat related to the above, for our awardees who would require a support person (or [other companion](https://twitter.com/bodil/status/1000344195951972352)) to accompany them to be able to attend, please let us know in the application form, and we will see what we can do to make that happen, or at least lessen the cost.
 
 Relacionado con lo de mencionado arriba, para nuestros asistentes que necesiten un asistente (u [otro tipo de compañía](https://twitter.com/bodil/status/1000344195951972352)) para ayudarles a llegar, por favor, háznoslo saber en el formulario de solicitud, e intentaremos hacerlo posible, o almenos disminuir el coste.
 
@@ -84,8 +72,6 @@ Todavía estamos buscando opcions para el alojamiento, pero nuestros requisitos 
 - Un máximo de 4 agraciados en el mismo apartamento
 - Cada agraciado obtiene una habitación separada con llave y camas cómodas
 - Aseo con cerradura (compartido, pero idealmente más de uno)
-
-While cost is certainly a concern, with the above constraints having this option is not a major vehicle for savings, and this option is more focusing on the acceptance of the fact that everyone has a different idea about conference attendance. For some people this may mean the sanctity and calm of a private hotel room with an en-suite bathroom, while others may enjoy the company & kinship of their fellow participants even beyond the event. We want to enable both without forcing either of these situations onto anyone.
 
 Ciertamente, los costes son importantes, con los anteriores requisitos esta opción no es la manera más adecuada de ahorrar, y esta opción está más enfocada en la aceptación del hecho de que cualquier persona tiene una idea diferente de cómo atender a la conferencia. Para algunas personas, esto puede suponer ser la calma y privacidad de una habitación de hotel con baño incluído, cuando para otras personas pueden disfrutar de la compañía y colegueo de sus compañeros incluso más allá del evento. Queremos proporcionar las dos opciones sin forzar ninguna de éstas a nadie.
 
