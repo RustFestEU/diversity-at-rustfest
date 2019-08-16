@@ -18,8 +18,6 @@ Empezaremos a contactar a los agraciados a principios de setiembre, aunque conti
 
 ### Reservas própias y reembolso
 
-RustFest Scholarships may come with travel support, when requested. We understand, that not everyone can afford paying the upfront cost of travel to RustFest, even when we provide reimbursements for these costs, so we also offer the option of booking travel on behalf of the awardee. This as well can be requested while filling out the application form.
-
 Las Becas del RustFest pueden incluir ayudas para el viaje, si se piden. Entendemos que, no todo el mundo se puede permitir pagar de golpe el coste del viaje hacia el RustFest, incluso cuando proporcionamos reembolso para estos costes, así que adicionalmente ofrecemos la opción de reservar el viaje en nombre del agraciado.
 
 Para los agraciados que prefieran reservar su propio viaje, podemos ofrecer un reembolso al alza basado en las expectativas del coste del viaje, para que así no haya sorpresas para ninguna de las partes. Ésta es una gran opción para los que prefieran la flexibilidad/privacidad de reservar su propio viaje, y hasta nos puede hacer ahorrar dinero y complicaciones (que podríamos usar para otras tareas y agraciados), pero de todas maneras, aprovecha las ventajas en reserva de viajes que ofrece la conferencia si crees que lo necesitas.
