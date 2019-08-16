@@ -69,4 +69,4 @@ Encara estem buscant opcions per l'allotjament, però els nostres requisits són
 
 Certament, els costos són importants, amb els anteriors requeriments aquesta opción no és la manera més adequada d'estalviar, i aquesta opció está més enfocada a l'acceptació del fet de que qualsevol persona té una idea diferent de com atendre a una conferència. Per algunes persones, això pot suposar ser la calma i privacitat d'una habitació d'hotel amb bany inclòs, i per d'altres persones pot ser gaudir de la companyia i camaraderia dels seus companys inclús més enllà de l'event. Volem proporcionar les dues opcions sense forçar cap de les dues a ningú.
 
-### Envío de solicitud
+### Enviament de solicitut
