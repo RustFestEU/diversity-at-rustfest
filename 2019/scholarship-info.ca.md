@@ -2,7 +2,7 @@
 
 L'objectiu principal del RustFest sempre ha sigut unir a la comunitat. Per descomptat, _"Comunitat"_, incloeïx diferents grups, persones marginades, i totes aquelles persones que normalmente no es poden permetre assitir -- moltes de les nostres [polítiques](/diversity/ca/] estan anotades per garantir que proporcionem un event assequible i meticulós que pretén ser tant inclusiu i acollidor com humanament possible sigui.
 
-Completant totes les nostres altres polítiques, un altra cop aquest any estem desenvolupant un programa de Beques per fer un cop de mà als nostres membres de la comunitat que necessiten ajudar per assistir al RustFest. Instem a persones de moniries subrepresentades en tecnologia que sol·licitin aquesta ajuda. Això incloeïx, però no <span style="color:red"> **està** </span>, limitat a persones qeu pertanyen a qualsevol dels següent grups: persones de color, dones, persones de génere no binari i no declarat, minusvàlids, persones amb enfermetats mentals, i persones LGBTQIA+. La Beca ofereïx tant transport i allotjament, com accés complementari a la conferència.
+Completant totes les nostres altres polítiques, un altra cop aquest any estem desenvolupant un programa de Beques per fer un cop de mà als nostres membres de la comunitat que necessiten ajudar per assistir al RustFest. Instem a persones de moniries subrepresentades en tecnologia que sol·licitin aquesta ajuda. Això incloeïx, però no <span style="color:red"> **està** </span>, limitat a persones que pertanyen a qualsevol dels següent grups: persones de color, dones, persones de génere no binari i no declarat, minusvàlids, persones amb enfermetats mentals, i persones LGBTQIA+. La Beca ofereïx tant transport i allotjament, com accés complementari a la conferència.
 
 Addicionalment, disposem d'un número limitat d'entrades gratuïtes per a persones que d'altra manera no haguessin pogut permetres atendre a la conferència i viuen a Barcelona o als voltants.
 
@@ -19,15 +19,15 @@ Començarem a contactar amb els agraciats a principis de septembre, encara que c
 
 Les Beques del RustFest poden incloure ajudes per al viatje si es demanen. Entenem que, no tothom es pot permetre pagar de cop el cost del viatje fins al RustFest, inclús quan proporcionem reemborsament per a aquests costos, així que adicionalment oferim la opció de reservar el viatje en nom de l'agraciat.
 
-Pels agraciats que prefereixin reservar el seu propi viatje, podem oferir un reemborsament al alça basat en les expectatives del cost del viatje, per a que així no hi hagi sorpreses per a cap de les parts. Aquesta és una gran opció per als que prefereixin la flexibilitat/privacitat de reservar el seu propia viatje, i fins i tot ens pot fer estalviar diners i complicacions (que podriem fer servir per altres tarees i agraciats), però de totes maneres, aprofita les ventatjes en reserva de viatjes que ofereix la conferència si creus que ho necessites.
+Pels agraciats que prefereixin reservar el seu propi viatje, podem oferir un reemborsament al alça basat en les expectatives del cost del viatje, per a que així no hi hagi sorpreses per a cap de les parts. Aquesta és una gran opció per als que prefereixin la flexibilitat/privacitat de reservar el seu propi viatje, i fins i tot ens pot fer estalviar diners i complicacions (que podriem fer servir per altres tarees i agraciats), però de totes maneres, aprofita les ventatjes en reserva de viatjes que ofereix la conferència si creus que ho necessites.
 
-**Ambdòs participants, tant els que hagin reservat personalment el biajte, o a través de la conferència,** tindran la possibilitat d'enviar les despeses després de la conferència per cobrir/reemborsar diversos costs derivats de la seva assistència. Els segúents tickets es poden enviar per a reemborsament després de l'event:
+**Ambdòs participants, tant els que hagin reservat personalment el viajte, o a través de la conferència,** tindran la possibilitat d'enviar les despeses després de la conferència per cobrir/reemborsar diversos costs derivats de la seva assistència. Els següents tickets es poden enviar per a reemborsament després de l'event:
 
-- despeses de viatje i allotjament (reemborsament finbs el límit previst)
+- despeses de viatje i allotjament (reemborsament fins el límit previst)
 - despeses de sol·licitut del visat (reemborsament complet)
 - fins a 100€ en diverses despeses relacionades amb el viatje (despeses de viatje)
 
-Les despeses del biatje es poden fer servir per cobrir els viatje desde/fins a l'ambaixada (per la sol·licitut del visat) i a l'aeropot; adicionalment, per al transport local, menjar, medicació etc. a Barcelona, Per favor, tingues en compte que no es reemborsaran begudes alcoholiques. Per rebre el reemborsament de les despeses del visat, el demandant haurà de guardar el resguard del pagament del visat a l'ambaixada i enviar-lo.
+Les despeses del viatje es poden fer servir per cobrir els viatjes desde/fins a l'ambaixada (per la sol·licitut del visat) i a l'aeropot; adicionalment, per al transport local, menjar, medicació etc. a Barcelona, Per favor, tingues en compte que no es reemborsaran begudes alcoholiques. Per rebre el reemborsament de les despeses del visat, el demandant haurà de guardar el resguard del pagament del visat a l'ambaixada i enviar-lo.
 
 Els nostres límits per als reemborsaments del viatje i per l'allotjament són els següents:
 
