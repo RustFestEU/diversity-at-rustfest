@@ -11,9 +11,9 @@ Si crees que te identificas con lo mencionado arriba, por favor [baja al final d
 
 ### Fechas
 
-Las solicitudes se abrirán el 15 de agosto, y permanecerán abiertas hasta que todas las entradas hayan sido asignadas y el presupuesto exhaurido (pero almenos hasta el 15 de setiembre).
+Las solicitudes se abrirán el 15 de agosto, y permanecerán abiertas hasta que todas las entradas hayan sido asignadas y el presupuesto agotado (pero almenos hasta el 15 de setiembre).
 
-Empezaremos a contactar a los agraciados a principios de setiembre, aunque continuaremos asignando entradas contínuamente hasta setiembre u octubre, hasta que nuestro presuuesto se acabe. Todos los que hayan pedido una beca de viaje recibirán una respuesta del estado de su solucitud hasta 4 semanas antes de la conferencia.
+Empezaremos a contactar a los agraciados a principios de setiembre, aunque continuaremos asignando entradas contínuamente hasta setiembre u octubre, hasta que nuestro presupuesto se acabe. Todos los que hayan pedido una beca de viaje recibirán una respuesta del estado de su solucitud hasta 4 semanas antes de la conferencia.
 
 
 ### Reservas própias y reembolso
@@ -28,7 +28,7 @@ Para los agraciados que prefieran reservar su propio viaje, podemos ofrecer un r
 - costes de solicitud de visado (reembolso completo)
 - hasta 100€ en varios gastos relacionados con el viaje (gastos de viaje)
 
-Los gastos de viaje se pueden usar para cubrir el viaje desde/hacia la embajada (para la solicutud del visado) y al aeropuerto; adicionalmente, para el transporte local, comida, medicación etc. en Barcelona. Por favor, ten en cuenta que no se reembolsarán bebidas alcoholicas. Para recibir el reembolso de los costes del visado, el demandante habrá de guardar el resguardo del pago de la visa en la embajada y enviarlo.
+Los gastos de viaje se pueden usar para cubrir el viaje desde/hacia la embajada (para la solicutud del visado) y al aeropuerto; adicionalmente, para el transporte local, comida, medicación etc. en Barcelona. Por favor, ten en cuenta que no se reembolsarán bebidas alcoholicas. Para recibir el reembolso de los costes del visado, el demandante habrá de guardar el comprobante del pago del visado en la embajada y enviarlo.
 
 Nuestros límites para los reembolsos de viaje y alojamiento son los siguientes:
 
@@ -65,7 +65,7 @@ Otra nueva (y por ello experimental) propuesta para las ofertas de becas de este
 
 Cada agraciado que eligió un alojamiento proporcionado por la conferencia tiene el derecho de obtener su propia habitación individual en el hotel para los días de la conferencia. Pero, **como una opción**, para los que se sientan cómodos, pueden denotar en el formulario que están interesandos en compartir el alojamiento, y si vemos que hay suficiente interés y podemos encontrar un lugar que cumple nuestros requisitos (ver más abajo), podemos considerar proporcionar esta opción.
 
-Todavía estamos buscando opcions para el alojamiento, pero nuestros requisitos son:
+Todavía estamos buscando opciones para el alojamiento, pero nuestros requisitos son:
 
 - Un máximo de 4 agraciados en el mismo apartamento
 - Cada agraciado obtiene una habitación separada con llave y camas cómodas
